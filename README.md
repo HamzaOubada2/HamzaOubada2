@@ -31,7 +31,6 @@
 
 ### Fun Fact
 
-- 🛼 I’m also into **3D Design**, **content creation**, and **football**!
 - ✨ I love sharing ideas that inspire and spark creativity.
 
 ---
