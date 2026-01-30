@@ -1,35 +1,35 @@
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================= HERO TYPING ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Hamza+Oubada;Backend-Focused+Full-Stack+Developer;NestJS+%7C+PostgreSQL+%7C+MERN;Designing+Scalable+APIs+%26+Systems;Building+Production-Ready+Backends+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Hamza+Oubada;Backend-First+Full-Stack+Engineer;NestJS+%7C+PostgreSQL+%7C+MERN;Designing+Scalable+Systems+%26+APIs;Building+Production-Grade+Backends+🚀" />
   </a>
 </p>
 
-<!-- ================= VISITOR COUNTER ================= -->
+<!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HamzaOubada2&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-🚀 **I'm Hamza Oubada**, a Backend-focused Full-Stack Developer.  
-I specialize in **building scalable, secure, and high-performance backend systems.**
+🚀 **Hamza Oubada** — Backend-first Full-Stack Engineer specializing in **scalable backend systems and API architecture.**  
+I focus on building **production-grade software** with clean architecture, security, and performance in mind.
 
-🧠 I think like a **Backend Engineer**, not just a coder.
+🧠 I approach software like an engineer: design first, then code.
 
 ---
 
-## 🧠 Core Focus
+## 🧠 Core Expertise
 
-- 🏗️ NestJS (Enterprise Architecture)
-- 🐘 PostgreSQL (Advanced SQL & Performance)
-- 🔐 Auth Systems (JWT, Guards, RBAC, Roles & Permissions)
-- ⚙️ RESTful APIs & System Design
-- 🐳 Docker for backend environments
-- 📊 Backend Analytics & Monitoring
-- 🧩 Clean Architecture & SOLID Principles
+- 🏗️ **NestJS** — Modular, enterprise backend architecture  
+- 🐘 **PostgreSQL** — Advanced SQL, indexing, performance tuning  
+- 🔐 **Authentication & Authorization** — JWT, RBAC, Guards, Roles  
+- ⚙️ **REST APIs** — Scalable, secure, maintainable  
+- 🐳 **Docker** — Backend environments & deployments  
+- 📊 **System Design & Backend Analytics**  
+- 🧩 **Clean Architecture & SOLID Principles**
 
 ---
 
@@ -60,48 +60,43 @@ I specialize in **building scalable, secure, and high-performance backend system
 
 ---
 
-## 🔥 What I Love Working On
+## 🔥 Engineering Focus
 
-- 🧠 Backend System Design
-- 🔒 Advanced Authentication & Authorization
-- ⚡ High-performance APIs
-- 📈 Backend analytics & optimization
-- 🏗️ SaaS & scalable platforms
+- Backend system design & scalability
+- Secure authentication systems
+- High-performance API architecture
+- Database design & optimization
+- SaaS backend platforms
+- Clean, maintainable codebases
 
 ---
 
-## 🚀 Vision & Projects
+## 🚀 Vision & Direction
 
-- 🏗️ Enterprise-style backend systems
-- 🧠 SaaS platforms
-- 📚 Smart education platforms
-- 💼 Freelance backend systems
+- 🏗️ Enterprise backend systems
+- 🧠 SaaS products
+- 📚 Smart educational platforms
+- 💼 Freelance & startup-ready architectures
 
 ---
 
 ## 🤝 Collaboration
 
-- 🔓 Open Source
-- 🧑‍🏫 Mentoring
-- 🚀 Building serious backend products
+- Open Source contributions
+- Mentoring junior developers
+- Building serious backend-driven products
 
 ---
 
 ## 📫 Contact
 
-📧 Email: **OubHam220@gmail.com**  
-🔗 LinkedIn: **Hamza Oubada**
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaOubada2&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+📧 **Email:** OubHam220@gmail.com  
+🔗 **LinkedIn:** Hamza Oubada  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaOubada2&show_icons=true&theme=tokyonight" />
 </p>
@@ -110,24 +105,13 @@ I specialize in **building scalable, secure, and high-performance backend system
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaOubada2&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaOubada2&theme=tokyo-night" />
-</p>
+---
+
+## ⚡ Engineering Philosophy
+
+> *"Great backends are not written.  
+> They are engineered."*
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> "I don’t just write code.  
-> I engineer systems that scale, secure, and survive production."
-
----
-
-🌍 **Let’s build powerful backend systems together.**
+🌍 **Let’s engineer scalable systems together.**
